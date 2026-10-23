@@ -1,4 +1,4 @@
-# 9Router Installer
+# 9Router Docker Installer
 
 Simple Docker installer for [9Router](https://github.com/decolua/9router).
 
